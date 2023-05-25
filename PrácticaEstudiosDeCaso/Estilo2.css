@@ -1,0 +1,24 @@
+h1{
+    display: flex;
+    font-style: normal;
+}
+h2{
+    display: flex;
+    font-style: italic;
+}
+body {
+    background: linear-gradient( yellow, white , yellow );
+}
+label{
+    display: flex;
+    font-style: italic;
+}
+*{
+    border-width: 3px;
+    border-color: black;
+    margin: 6px;
+}
+.Imagenes2{
+    display: flex;
+    justify-content: center;
+}
